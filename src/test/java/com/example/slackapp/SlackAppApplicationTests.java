@@ -1,10 +1,10 @@
-package com.example.slackapptest;
+package com.example.slackapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SlackAppTestApplicationTests {
+class SlackAppApplicationTests {
 
     @Test
     void contextLoads() {

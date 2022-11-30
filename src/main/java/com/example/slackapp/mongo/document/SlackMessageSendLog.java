@@ -1,4 +1,4 @@
-package com.example.slackapptest.mongo.document;
+package com.example.slackapp.mongo.document;
 
 import java.time.LocalDateTime;
 import lombok.Getter;

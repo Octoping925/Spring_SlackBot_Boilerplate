@@ -1,6 +1,6 @@
-package com.example.slackapptest.mongo.service;
+package com.example.slackapp.mongo.service;
 
-import com.example.slackapptest.mongo.document.SlackMessageSendLog;
+import com.example.slackapp.mongo.document.SlackMessageSendLog;
 import java.util.Optional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.mongodb.core.MongoTemplate;

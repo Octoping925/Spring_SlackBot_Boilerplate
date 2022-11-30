@@ -1,8 +1,8 @@
-package com.example.slackapptest.slack.controller;
+package com.example.slackapp.slack.controller;
 
-import com.example.slackapptest.common.Validator;
-import com.example.slackapptest.config.SlackChannelsProperties;
-import com.example.slackapptest.slack.service.SlackAppSenderService;
+import com.example.slackapp.common.Validator;
+import com.example.slackapp.config.SlackChannelsProperties;
+import com.example.slackapp.slack.service.SlackAppSenderService;
 import javax.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

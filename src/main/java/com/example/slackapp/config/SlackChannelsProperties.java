@@ -1,4 +1,4 @@
-package com.example.slackapptest.config;
+package com.example.slackapp.config;
 
 import java.util.HashMap;
 import java.util.Map;

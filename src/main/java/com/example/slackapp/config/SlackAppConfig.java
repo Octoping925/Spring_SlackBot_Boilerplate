@@ -1,4 +1,4 @@
-package com.example.slackapptest.config;
+package com.example.slackapp.config;
 
 import com.slack.api.bolt.App;
 import org.springframework.context.annotation.Bean;

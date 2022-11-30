@@ -1,6 +1,6 @@
-package com.example.slackapptest.common;
+package com.example.slackapp.common;
 
-import com.example.slackapptest.config.SlackChannelsProperties;
+import com.example.slackapp.config.SlackChannelsProperties;
 
 public class Validator {
     public static boolean isValidSlackMessage(String text) {

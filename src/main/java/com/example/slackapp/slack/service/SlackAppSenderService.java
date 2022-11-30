@@ -1,8 +1,8 @@
-package com.example.slackapptest.slack.service;
+package com.example.slackapp.slack.service;
 
-import com.example.slackapptest.mongo.document.SlackMessageSendLog;
-import com.example.slackapptest.mongo.document.SlackMessageType;
-import com.example.slackapptest.mongo.service.MongoUploadService;
+import com.example.slackapp.mongo.document.SlackMessageSendLog;
+import com.example.slackapp.mongo.document.SlackMessageType;
+import com.example.slackapp.mongo.service.MongoUploadService;
 import com.slack.api.Slack;
 import com.slack.api.methods.MethodsClient;
 import com.slack.api.methods.SlackApiException;
