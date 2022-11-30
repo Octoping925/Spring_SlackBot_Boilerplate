@@ -1,0 +1,15 @@
+logging.level:
+  com.slack.api: DEBUG
+server:
+  port: 8081
+slack:
+  token: write-your-token
+  channel:
+    monitor: '#슬랙봇연습'
+    general: '#일반'
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/slackbot
+      database: slackbot
