@@ -11,5 +11,6 @@ slack:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/slackbot
+#      uri: mongodb://localhost:27017/slackbot  # for local
+      uri: mongodb://mongodb:27017/slackbot # for docker
       database: slackbot
