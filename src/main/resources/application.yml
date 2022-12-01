@@ -3,7 +3,7 @@ logging.level:
 server:
   port: 8081
 slack:
-  token: write-your-token
+  token: xoxb-4436422922166-4443334424226-aK99V3bE7KASggNGljYVCj6W
   channel:
     monitor: '#슬랙봇연습'
     general: '#일반'
@@ -11,5 +11,6 @@ slack:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/slackbot
+#      uri: mongodb://localhost:27017/slackbot  # for local
+      uri: mongodb://mongodb:27017/slackbot # for docker
       database: slackbot
