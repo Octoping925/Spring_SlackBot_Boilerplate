@@ -3,7 +3,7 @@ logging.level:
 server:
   port: 8081
 slack:
-  token: xoxb-4436422922166-4443334424226-aK99V3bE7KASggNGljYVCj6W
+  token: write-your-token
   channel:
     monitor: '#슬랙봇연습'
     general: '#일반'
